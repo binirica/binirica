@@ -1,11 +1,13 @@
 @font-face {
   font-family: 'TMT-UrgingOsmosis-B';
-  src: 
-        url('/fonts/TMT-UrgingOsmosis/static/TMT-UrgingOsmosis-B.woff') format('woff'),
-        url('/fonts/TMT-UrgingOsmosis/static/TMT-UrgingOsmosis-B.woff2') format('woff2');
+  src: url('/fonts/TMT-UrgingOsmosis/TMT-UrgingOsmosis-B.woff') format('woff');
   font-display: swap; 
 }
 
-body {
-    font-family: 'TMT-UrgingOsmosis-B';
+h1 {
+    font-family:'TMT-UrgingOsmosis-B';
+    font-size: 8em;
+    color: #5b34eb;
+    text-shadow: 0px 0px 5px #5b34eb;
+    text-align: center;
 }
