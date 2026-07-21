@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'TMT-UrgingOsmosis-B';
+  src: 
+        url('/fonts/TMT-UrgingOsmosis/static/TMT-UrgingOsmosis-B.woff') format('woff'),
+        url('/fonts/TMT-UrgingOsmosis/static/TMT-UrgingOsmosis-B.woff2') format('woff2');
+  font-display: swap; 
+}
+
+body {
+    font-family: 'TMT-UrgingOsmosis-B';
+}
